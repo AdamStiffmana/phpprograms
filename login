@@ -62,7 +62,7 @@ Please fill this form to create an account.
             </div>
 <div class="form-group">
                 <input class="btn btn-primary" type="submit" value="Submit" />
-                <input class="btn btn-default" type="reset" value="Reset" />
+                <input class="btn btn-default" type="reset" value="Reset" />               
             </div>
 Already have an account? <a href="https://www.blogger.com/u/1/login.php">Login here</a>.
 
